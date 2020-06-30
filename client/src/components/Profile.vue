@@ -31,7 +31,7 @@
               </p>
             </li>
             <li v-if="profileData.segments[0].stats.kills">
-              <h4>Lifetime kills</h4>
+              <h4>Selected legend kills</h4>
               <p>
                 {{profileData.segments[0].stats.kills.displayValue}}
               </p>
