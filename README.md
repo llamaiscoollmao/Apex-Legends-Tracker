@@ -1,5 +1,5 @@
 # Apex Legends Tracker
-Track somebody's stats on Apex Legends.
+Track user stats in Apex Legends
 
 ## Forks welcome
 Want to add more stuff to this project? Create a fork, then create a pull request!
